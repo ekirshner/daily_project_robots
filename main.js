@@ -14,5 +14,5 @@ app.get('/', function(req,res) {
 
 // creating localhost
 app.listen(3000, function () {
-    console.log('successfully did shit');
+    console.log('success!');
 });
